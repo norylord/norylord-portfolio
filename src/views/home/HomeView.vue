@@ -16,7 +16,7 @@
 
 <script lang="ts" setup>
 
-import HomeSlider from "@/components/app/home/HomeSlider.vue";
+import HomeSlider from "@/modules/home/components/HomeSlider.vue";
 </script>
 
 <style lang='sass'>

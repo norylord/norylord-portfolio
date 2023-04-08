@@ -6,7 +6,7 @@
 
 <script lang="ts" setup>
 
-import AboutActions from "@/components/app/about/AboutActions.vue";
+import AboutActions from "@/modules/about/components/AboutActions.vue";
 import {reactive} from "vue";
 
 interface IState {

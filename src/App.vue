@@ -9,8 +9,8 @@
 
 <script lang="ts" setup>
 
-import CustomNavbar from "./components/app/navbar/CustomNavbar.vue";
-import CustomFooter from "@/components/app/footer/CustomFooter.vue";
+import CustomNavbar from "./layout/navbar/TheNavbar.vue";
+import CustomFooter from "@/layout/footer/TheFooter.vue";
 </script>
 
 <style lang='sass'>
